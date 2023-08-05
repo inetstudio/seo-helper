@@ -1,11 +1,11 @@
 {
-    "name":        "arcanedev/seo-helper",
+    "name":        "inetstudio/seo-helper",
     "description": "SEO Helper is a framework agnostic package that provides tools & helpers for SEO (Laravel supported).",
     "keywords": [
         "laravel", "seo", "google", "bing", "alexa", "yandex", "webmaster", "helper",
         "title", "description", "keywords", "metas", "tags", "twitter", "opengraph", "og"
     ],
-    "homepage": "https://github.com/ARCANEDEV/SEO-Helper",
+    "homepage": "https://github.com/inetstudio/seo-helper",
     "authors": [
         {
             "name":     "ARCANEDEV",
@@ -18,7 +18,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "arcanedev/php-html": "^10.0",
+        "inetstudio/php-html": "^10.0",
         "arcanedev/support": "^10.0"
     },
     "require-dev": {
